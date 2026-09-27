@@ -1,0 +1,12 @@
+# data, caches, models and outputs are large and are moved outside git (see v3_remote/README.md)
+*.parquet
+*.npy
+*.pkl
+*.tsv
+*.safetensors
+*.bin
+*.log
+model*/
+transfer_v3/
+__pycache__/
+.venv/
